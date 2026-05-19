@@ -1,2 +1,2 @@
-# April26_Rutgers-RCSB
-For data from the April 2026 CodeBMB Webinar for Beginners
+# May26_codeBMB
+For data from the May 2026 CodeBMB Webinar for Beginners
