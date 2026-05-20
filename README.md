@@ -36,7 +36,7 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 | 1:10 | 10 min | Project possibilities showcase | 004/005/006 | Fast instructor-led tour of all three tracks |
 | 1:20 | 30 min | Linear regression: theory + walkthrough | 004 | Full pipeline — participants follow along |
 | 1:50 | 15 min | Break | — |  |
-| 2:05 | 25 min | AI Session: Using Gemini to modify code | — | — |
+| 2:05 | 25 min | AI Session: Using Gemini to modify code | 007 | — |
 | 2:30 | 5 min | Project scoping — confirm your track | — | Everyone declares their project |
 | 2:35 | 50 min | Project work time in breakout groups | 004/005/006 | Facilitated by domain |
 | 3:25 | 25 min | Project share-out | — | Lightning format |
